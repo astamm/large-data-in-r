@@ -1,0 +1,9 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Resources",
+    "section": "",
+    "text": "https://hbs-rcs.github.io/large_data_in_R/#read-and-count-lyft-records-with-arrow\n{arrow}: parquet and feather file formats;\n{disk.frame}: large out of RAM data manipulation, fst file format, parallel without a Spark server.\n{nanoparquet}\nhttps://hutchdatascience.org/data_snacks/r_snacks/parquet.html"
+  }
+]
