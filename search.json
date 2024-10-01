@@ -4,6 +4,20 @@
     "href": "index.html",
     "title": "Resources",
     "section": "",
-    "text": "https://hbs-rcs.github.io/large_data_in_R/#read-and-count-lyft-records-with-arrow\n{arrow}: parquet and feather file formats;\n{disk.frame}: large out of RAM data manipulation, fst file format, parallel without a Spark server.\n{nanoparquet}\nhttps://hutchdatascience.org/data_snacks/r_snacks/parquet.html"
+    "text": "{arrow}: parquet and feather file formats;\n{disk.frame}: large out of RAM data manipulation, fst file format, parallel without a Spark server;\n{nanoparquet}."
+  },
+  {
+    "objectID": "index.html#packages",
+    "href": "index.html#packages",
+    "title": "Resources",
+    "section": "",
+    "text": "{arrow}: parquet and feather file formats;\n{disk.frame}: large out of RAM data manipulation, fst file format, parallel without a Spark server;\n{nanoparquet}."
+  },
+  {
+    "objectID": "index.html#blog-posts",
+    "href": "index.html#blog-posts",
+    "title": "Resources",
+    "section": "Blog Posts",
+    "text": "Blog Posts\n\nhttps://hbs-rcs.github.io/large_data_in_R/#read-and-count-lyft-records-with-arrow\nhttps://hutchdatascience.org/data_snacks/r_snacks/parquet.html"
   }
 ]
